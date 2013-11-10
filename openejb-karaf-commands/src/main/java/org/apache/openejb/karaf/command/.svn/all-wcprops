@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1440864/tomee/karafee/trunk/openejb-karaf-commands/src/main/java/org/apache/openejb/karaf/command
+END
+DeploymentCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1440864/tomee/karafee/trunk/openejb-karaf-commands/src/main/java/org/apache/openejb/karaf/command/DeploymentCommand.java
+END
+ListEJBs.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1440864/tomee/karafee/trunk/openejb-karaf-commands/src/main/java/org/apache/openejb/karaf/command/ListEJBs.java
+END
+Undeploy.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1440864/tomee/karafee/trunk/openejb-karaf-commands/src/main/java/org/apache/openejb/karaf/command/Undeploy.java
+END
+DeployedBundles.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1440864/tomee/karafee/trunk/openejb-karaf-commands/src/main/java/org/apache/openejb/karaf/command/DeployedBundles.java
+END
+JndiOsgiCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1440864/tomee/karafee/trunk/openejb-karaf-commands/src/main/java/org/apache/openejb/karaf/command/JndiOsgiCommand.java
+END
+Deploy.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1440864/tomee/karafee/trunk/openejb-karaf-commands/src/main/java/org/apache/openejb/karaf/command/Deploy.java
+END
+Properties.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1440864/tomee/karafee/trunk/openejb-karaf-commands/src/main/java/org/apache/openejb/karaf/command/Properties.java
+END

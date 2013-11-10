@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1440864/tomee/karafee/trunk/apache-karafee/src/main/filtered-resources/etc
+END
+system.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1440864/tomee/karafee/trunk/apache-karafee/src/main/filtered-resources/etc/system.properties
+END
+config.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1440864/tomee/karafee/trunk/apache-karafee/src/main/filtered-resources/etc/config.properties
+END
+org.apache.karaf.management.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1440864/tomee/karafee/trunk/apache-karafee/src/main/filtered-resources/etc/org.apache.karaf.management.cfg
+END
+custom.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1440864/tomee/karafee/trunk/apache-karafee/src/main/filtered-resources/etc/custom.properties
+END
+org.apache.karaf.features.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1440864/tomee/karafee/trunk/apache-karafee/src/main/filtered-resources/etc/org.apache.karaf.features.cfg
+END
+org.apache.karaf.webconsole.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1440864/tomee/karafee/trunk/apache-karafee/src/main/filtered-resources/etc/org.apache.karaf.webconsole.cfg
+END
+jre.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1440864/tomee/karafee/trunk/apache-karafee/src/main/filtered-resources/etc/jre.properties
+END
+users.properties
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1440864/tomee/karafee/trunk/apache-karafee/src/main/filtered-resources/etc/users.properties
+END
+org.apache.karaf.shell.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1440864/tomee/karafee/trunk/apache-karafee/src/main/filtered-resources/etc/org.apache.karaf.shell.cfg
+END

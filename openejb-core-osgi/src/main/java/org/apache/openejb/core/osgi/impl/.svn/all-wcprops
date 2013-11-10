@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1440864/tomee/karafee/trunk/openejb-core-osgi/src/main/java/org/apache/openejb/core/osgi/impl
+END
+OpenEJBBundleContextHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1440864/tomee/karafee/trunk/openejb-core-osgi/src/main/java/org/apache/openejb/core/osgi/impl/OpenEJBBundleContextHolder.java
+END
+Deployer.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1440864/tomee/karafee/trunk/openejb-core-osgi/src/main/java/org/apache/openejb/core/osgi/impl/Deployer.java
+END
+RegisterOSGIServicesExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1440864/tomee/karafee/trunk/openejb-core-osgi/src/main/java/org/apache/openejb/core/osgi/impl/RegisterOSGIServicesExtension.java
+END
+BundleFinderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1440864/tomee/karafee/trunk/openejb-core-osgi/src/main/java/org/apache/openejb/core/osgi/impl/BundleFinderFactory.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1440864/tomee/karafee/trunk/openejb-core-osgi/src/main/java/org/apache/openejb/core/osgi/impl/Activator.java
+END
