@@ -22,7 +22,7 @@ mvn clean install
 
 During the build process, a Karaf distribution will be generated. This tar.gz file is available under the directory `apache-karafee/target/`.
 
-- Run KarafEE
+## Run KarafEE
 
 Untar the karafEE distribution `tar -vxf apache-karafee-1.0-SNAPSHOT.tar.gz`, move to the bin directory of `apache-karafee-1.0-SNAPSHOT/bin` in your terminal and launch `./karafee` command
 Karaf Container will be launched in standalone mode and the console will appear soon
@@ -58,6 +58,6 @@ openejb:list
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ```
 
-- Make a test
+## Make a test
 
 TODO - Add links to [EJB & CDI examples](http://openejb.apache.org/examples-trunk/simple-stateless/README.html)
